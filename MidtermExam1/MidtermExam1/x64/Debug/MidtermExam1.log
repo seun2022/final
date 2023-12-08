@@ -1,0 +1,8 @@
+﻿  cube.cpp
+  Runc.cpp
+C:\jsw\MidtermExam1\MidtermExam1\Runc.cpp(94,8): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  testcube.cpp
+  yuhanCG.cpp
+  코드를 생성하고 있습니다...
+C:\jsw\MidtermExam1\MidtermExam1\cube.cpp(136): warning C4715: 'Drawcube': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MidtermExam1.vcxproj -> C:\jsw\MidtermExam1\x64\Debug\MidtermExam1.exe
